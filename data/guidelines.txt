@@ -1,0 +1,2 @@
+# Put in this folder all data, properly referenced (source, date, website, ...) in at least one of the following formats:
+# .npz, .mat, .txt (csv), .dat, .xls
